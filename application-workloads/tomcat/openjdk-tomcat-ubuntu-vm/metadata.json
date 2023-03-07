@@ -16,7 +16,7 @@
     "rank": 30,
     "roles": "Other",
     "scenario": "Azure Virtual Machine",
-    "learning": "https://docs.microsoft.com/learn/browse/?term=linux%20Virtual%20Machine&WT.mc_id=Portal-Microsoft_Azure_Education",
+    "learning": "https://learn.microsoft.com/training/browse/?term=linux%20Virtual%20Machine&WT.mc_id=portaledu_inproduct_template&terms=linux%20Virtual%20Machine",
     "isA4EActive": "true",
     "usefulLink": [
       "@{name=Getting Started; rank=1; url=https://github.com/Azure/azure-quickstart-templates/blob/master/application-workloads/tomcat/openjdk-tomcat-ubuntu-vm/gettingstarted.md}",
